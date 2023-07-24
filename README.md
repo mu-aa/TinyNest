@@ -2,7 +2,7 @@
 - 팀명 : TinyNest
 - 인원/직책 : 6명/팀장
 - 개발기간 : 2022.11 ~ 2022.12
-- 주제 : 쇼핑몰 사이트
+- 주제 : 쇼핑몰 사이트, HugeNest 사이트 레퍼런스
 - 링크 : http://itwill.xyz/tinynest/
 
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/e5d6eb3f-ccb5-4848-8dff-daf869482d39)
