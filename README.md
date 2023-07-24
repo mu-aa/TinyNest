@@ -14,7 +14,6 @@
   - 로그인, 회원가입
   - Exception Handler를 사용한 예외 처리
 
-![image](https://github.com/mu-aa/TinyNest/assets/122263555/e5d6eb3f-ccb5-4848-8dff-daf869482d39)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/a44ea141-7f24-401d-95f2-036dcd8703be)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/f2f9280a-0250-416a-8dc1-4df2e93f68f7)
 
