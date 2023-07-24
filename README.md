@@ -9,7 +9,7 @@
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/a44ea141-7f24-401d-95f2-036dcd8703be)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/f2f9280a-0250-416a-8dc1-4df2e93f68f7)
 
-### 화면정의서
+## 화면정의서
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/ca0c63cc-2724-46f9-b998-39da841400f4)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/3f61b160-a5b1-47b2-a915-7ae2db4dd44e)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/d092b8dd-0971-4d36-bfa2-b32f95601e24)
