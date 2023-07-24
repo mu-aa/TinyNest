@@ -4,6 +4,15 @@
 - 개발기간 : 2022.11 ~ 2022.12
 - 주제 : 쇼핑몰 사이트, HugeNest 사이트 레퍼런스
 - 링크 : http://itwill.xyz/tinynest/
+- 담당업무)
+  - 상품 상세페이지 구현(상품 사진, 상품 설명, 상품 갯수, 상품 가격 계산, 선택 상품 갯수만큼 장바구니로 이동)
+  - 카테고리 별 상품 페이지 페이징 처리
+  - 마이페이지
+  - 관리자페이지에서의 상품 등록, 삭제
+  - 키워드를 이용한 상품 검색
+  - 전체 페이지 css
+  - 로그인, 회원가입
+  - Exception Handler를 사용한 예외 처리
 
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/e5d6eb3f-ccb5-4848-8dff-daf869482d39)
 ![image](https://github.com/mu-aa/TinyNest/assets/122263555/a44ea141-7f24-401d-95f2-036dcd8703be)
